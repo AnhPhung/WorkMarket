@@ -1,0 +1,53 @@
+ANH PHUNG 
+New York, NY | +1 (218) 409-9739 | phun0031@d.umn.edu  | LinkedIn | GitHub | Website
+
+
+EDUCATION	
+University of Minnesota Duluth   UMD	Duluth, MN
+MS in Applied and Computational Mathematics GPA 3.86/4.00	08/2016
+Honor: Summer Research Fellowship, Duane E. Anderson Graduate Fellowship
+BS in Statistics GPA 3.81/4.00	12/2012
+Coursework: Regression Analysis, Applied Time Series Analysis, Multivariate Statistical Analysis, Linear Models, Analysis of Variance (ANOVA), Probability, Statistical Inference, Numerical Analysis, Advanced Linear Algebra, Real Variables, Real Analysis, Combinatorics
+BAA in Finance GPA 3.7/4.00	12/2012
+
+SKILLS
+* Language: Python, R, SQL, C++
+* Visualization: plot.ly, ggplot
+* Others: SAS Base certified, GraphLab, Teradata, Mathematica, Excel
+
+EXPERIENCE
+Data Analyst Intern, myKlovr	08/2016
+* Researched and built content, college and job recommendation 
+* Assisted Marketing team to analyze campaign performance using regression model
+* Wrote Python scripts to scrap, clean, and process data
+* Implemented tf-idf, k-mean clustering, and neural net to predict trend and classify data
+* Skills: Python, Numpy, Pandas, Scikit-learn, re, BeautifulSoup, matplotlib, data mining, text analyzing, Excel, teamwork, research
+Graduate Teaching Assistant, UMD	08/2014 – 05/2016
+* Lead three discussions groups comprising of 75 students every semester 
+* Increased student understanding of mathematical concepts via illustrative examples, group discussions, and one-to-one assistance
+* Honorable mentioned as 2015 - 2016 outstanding graduate teaching assistant 
+* Skills: teaching, communication, presentation
+Final Project: Comparison of Support Vector Regression and Neural Networks, UMD	
+* Presented support vector regression and its constructions using Lagrange multipliers, Karush-Kuhn-Tucker conditions, and kernel methods
+* Presented feed-forward neural network and its construction using back propagation and gradient descent
+* Illustrated problem of overfitting and two cross validation methods
+* Applied the models on King County house dataset to predict prices
+* Skills: R, RSNNS, kernlab, caret, ggplot2, research, presentation
+
+
+
+
+Multivariate Statistics Project: Classification of Letters with Support Vector Machines, UMD
+* Used and tuned multiple models to recognize letter of a set of unique letter images made up by 26 uppercase English alphabets
+* Built all the models using 16,000 images and made predictions on the other 4,000 images
+* Chosen model, Support Vector Machines, correctly classified 97% of the images, improving 10% compared to the second best model
+Linear Models Project: Implementation of Logistic Regression to Study Drug Effect, UMD
+* Presented logistic regression models using one predictor (drug type or a continuous covariate), two predictors (drug type and a continuous covariate), and three predictors (by including their interactions)
+* Fitted all the models, used the deviance differences and their associated p-values to choose the final model
+* Predicted the probabilities of positive responses for new data
+Statistics/ Algebra/ Finance Tutor, Tutor.com	07/2013 – 01/2014
+* Helped students to complete their assignments in algebra, finance, statistics at high school and college levels
+* Received an average rating of 4.6/5 from students
+* Being part of Fast Track program for new employees with strong performance
+
+
